@@ -3,7 +3,7 @@
 ### Quem sou eu
 - :page_facing_up: Técnica em Informática pelo Instituto Federal
 - :page_facing_up: Aluna do Programa Entra21 - Turma de Python
-- :computer: Atuarei como Analista de Desenvolvimento | - AmbevTech
+- :computer: Desenvolvedora | AmbevTech
 
 ### Tenho conhecimento em
 <div text-align="justify">
