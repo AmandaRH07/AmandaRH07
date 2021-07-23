@@ -1,24 +1,10 @@
 # **Amanda Rafaela Hass**
 
 ### Quem sou eu
-- :page_facing_up: Técnica em Informática pelo Instituto Federal
-- :page_facing_up: Aluna do Programa Entra21 - Turma de Python
+- :page_facing_up: Técnico em Informática - Instituto Federal
+- :page_facing_up: Programa Entra21 - Python
+- :page_facing_up: Analise e Desenvolvimento de Sistemas - Unicesumar
 - :computer: Desenvolvedora | AmbevTech
-
-### Tenho conhecimento em
-<div text-align="justify">
-<img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=60&color=currentColor" alt="HTML"/>
-<img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=60&color=currentColor" alt="CSS">
-<img src="https://icongr.am/devicon/python-original.svg?size=60&color=currentColor" alt="Python"/>
-<img src="https://icongr.am/devicon/java-original-wordmark.svg?size=60&color=currentColor" alt="Java"/>
-</div>
-
-### Estou estudando
-<div text-align="justify">
-<img src="https://icongr.am/devicon/javascript-original.svg?size=60&color=currentColor" alt="JavaScript"/>
-<img src="https://icongr.am/devicon/react-original-wordmark.svg?size=60&color=currentColor" alt="React" />
-<img src="https://icongr.am/devicon/csharp-original.svg?size=60&color=currentColor" alt="CSharp" />
-</div>
 
 ### Onde me encontrar: 
 
