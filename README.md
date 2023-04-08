@@ -3,7 +3,7 @@
 ### Quem sou eu
 - :page_facing_up: Técnico em Informática - Instituto Federal
 - :page_facing_up: Programa Entra21 - Python
-- :page_facing_up: Analise e Desenvolvimento de Sistemas - Unicesumar
+- :page_facing_up: Analise e Desenvolvimento de Sistemas - Estácio
 - :computer: Desenvolvedora | AmbevTech
 
 ### Onde me encontrar: 
